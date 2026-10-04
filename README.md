@@ -4,4 +4,4 @@ Proyecto del Laboratorio 01 del curso.
 
 ## Autor
 
-Tu Nombre - Laboratorio 01
+Jordy Paredes - Laboratorio 01
